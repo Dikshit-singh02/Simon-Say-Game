@@ -7,7 +7,11 @@ If you click the wrong color, the game ends!
 ---
 
 ## 📸 Demo
-*(Add screenshot or GIF here)*
+<img width="979" height="873" alt="Screenshot 2025-08-10 000941" src="https://github.com/user-attachments/assets/af873017-2e16-4e33-a4d5-9b3ebbbbf893" />
+<img width="817" height="893" alt="Screenshot 2025-08-10 001034" src="https://github.com/user-attachments/assets/d65af4ca-2931-478c-a31d-ae71653e73c3" />
+
+
+
 
 ---
 
@@ -45,3 +49,9 @@ If you click the wrong color, the game ends!
 ---
 
 ## 🖥️ Setup & Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Dikshit-singh02/simon-says-game.git
+
+
